@@ -1,4 +1,6 @@
 iS_free_book
 ============
 
-开源自由获取的开源图书链接。
+>我喜爱的一些免费开源图书的链接。
+
+[JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
