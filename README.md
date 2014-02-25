@@ -6,12 +6,15 @@ iS_free_book
 >>>*正在读*
 >>>>~~还未读~~
 
+#Google
+[~~Google JavaScript 代码风格指南~~](http://chajn.org/jsguide/javascriptguide.html)
+[~~Dart~~](http://dart.hanguokai.com/)
+
+
 #JavaScript
 [**JavaScript 秘密花园**](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 [~~JavaScript 原理~~](http://typeof.net/s/jsmech/)
-
-[~~Google JavaScript 代码风格指南~~](http://chajn.org/jsguide/javascriptguide.html)
 
 [**The Little Book on CoffeeScript**](http://island205.github.io/tlboc/)
 
