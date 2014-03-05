@@ -30,10 +30,16 @@ iS_free_book
 
 [*Grunt*](http://www.gruntjs.org/article/home.html)
 
+#Dart
+[dartlang](http://www.dartlang.cc/)
+
 #CSS
 [~~学习CSS布局~~](http://zh.learnlayout.com/)
 
 [~~CSS 禅意花园~~](https://github.com/mezzoblue/csszengarden.com)
+
+#Ruby
+[~~Ruby on Rails Tutorial~~](http://railstutorial-china.org/preface.html)
 
 #Selenium
 [~~Selenium doc~~](https://github.com/fool2fish/selenium-doc)
@@ -49,6 +55,9 @@ iS_free_book
 
 #MongoDB
 [~~The Little MongoDB Book~~](https://github.com/justinyhuang/the-little-mongodb-book-cn/blob/master/mongodb.md)
+
+#IDE
+[WebStorm](http://www.book.36ria.com/webstorm/index.html)
 
 #程序员
 [~~傻瓜函数式编程~~](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn/blob/master/FunctionalProgrammingForTheRestOfUs.cn.md)
